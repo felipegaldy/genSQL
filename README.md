@@ -11,5 +11,5 @@ Este repositório contém exemplos e atividade de banco de dados SQL.
 
 Feito com ❤️ por Felipe Silveira 👋🏽 Entre em contato!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesilveirasp//)](https://www.linkedin.com/in/felipesilveirasp/) 
-[![Outlook Badge](https://img.shields.io/badge/-felipe.silveira4@fatec.sp.gov.br-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:felipe.silveira4@fatec.sp.gov.br)](mailto:felipe.silveira4@fatec.sp.gov.br)
+  <a href="https://www.linkedin.com/in/felipesilveirasp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:felipe.silveira4@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
